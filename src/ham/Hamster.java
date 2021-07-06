@@ -10,7 +10,6 @@ public class Hamster {
 	private String colour;
 
 	public Hamster(String name, int age, String colour) {
-		super();
 		this.setName(name);
 		this.setAge(age);
 		this.setColour(colour);
@@ -20,7 +19,6 @@ public class Hamster {
 	}
 
 //	public Hamster(String name, int age, String colour) {
-//		super();
 //		this.name = name;
 //		this.age = age;
 //		this.colour = colour;
